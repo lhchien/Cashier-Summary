@@ -1,0 +1,5 @@
+{
+  "name": "Cashier Summary App",
+  "description": "A mobile-first application for cashier cash counting, register balancing, and safe deposit calculation.",
+  "requestFramePermissions": []
+}
